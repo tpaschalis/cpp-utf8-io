@@ -1,0 +1,3 @@
+﻿Μπορώ να διαβάσω κείμενο στα ελληνικά με κωδικοποίηση UTF-8.
+As well as UTF-8 encoded latin and cyrillic Доброе утро characters!
+Have a nice day.
